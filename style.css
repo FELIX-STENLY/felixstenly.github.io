@@ -1,0 +1,38 @@
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 1rem;
+  background-color: rgb(246, 255, 255);
+}
+
+#About {
+  padding-top: 2rem;
+  background-color: rgb(246, 255, 255);
+}
+
+#Project {
+  background-color: #a2d9ff;
+  padding-top: 2rem;
+}
+
+.red {
+  text-align: center;
+}
+
+.last {
+  background-color: #a2d9ff;
+  padding: 1rem;
+}
+
+#About {
+  padding-top: 5rem;
+}
+#Project {
+  padding-top: 5rem;
+}
+#Contact {
+  padding-top: 5rem;
+}
+
+.last {
+  text-align: center;
+}
